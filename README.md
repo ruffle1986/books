@@ -9,3 +9,5 @@ Let's get started. Here's the list of books I've read already:
 2. [The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph](https://amzn.to/2SPRNlw)
 
 3. [The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime!](https://amzn.to/2TUKlTC)
+
+4. [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://amzn.to/2EaFln3) ([Book review](https://dev.to/ruffle1986/atomic-habits-book-review-and-cheat-sheet-1bh4))
